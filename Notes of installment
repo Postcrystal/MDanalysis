@@ -1,0 +1,2 @@
+1. When you input code like "from MDAnalysisTests.datafiles import PSF, DCD" and met error like this " matplotlib.use('agg', warn=False), use() got .... ", I resolved this problem by 
+uninstalling the current version (3.3.2) and installing the version (3.2.0).
