@@ -2,3 +2,7 @@ matplotlib problem
 
   When you input code like "from MDAnalysisTests.datafiles import PSF, DCD" and met error like this " matplotlib.use('agg', warn=False), use() got .... ", I resolved this problem by 
 uninstalling the current version (3.3.2) and installing the version (3.2.0).
+
+Amber20 installment problem by compiling
+
+  Suggest you to install Amberstools19 instead of Amberstoo20 by means of miniconda or anaconda.
